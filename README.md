@@ -5,8 +5,8 @@ Application web complète de prise de rendez-vous pour la thérapie sensori-motr
 ## 🌐 URLs
 
 - **Application Sandbox** : https://3000-ipwpe98o0d0bwtd5s5iz9-cbeee0f9.sandbox.novita.ai
-- **Production Cloudflare** : À déployer
-- **GitHub** : À configurer
+- **GitHub Repository** : https://github.com/doriansarry47-creator/therapie-sensori-motrice
+- **Production Cloudflare** : En attente de configuration de la clé API Cloudflare
 
 ## ✨ Fonctionnalités Complétées
 
