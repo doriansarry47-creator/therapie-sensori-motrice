@@ -1,0 +1,9 @@
+# Variables d'environnement pour le développement local
+# Copiez ce fichier vers .dev.vars et ajustez les valeurs
+
+# Note: .dev.vars est dans .gitignore et ne sera pas commité
+# Ces variables sont utilisées uniquement en développement local
+
+# Exemple de variables (à adapter selon vos besoins futurs)
+# API_KEY=your_api_key_here
+# SECRET_KEY=your_secret_key_here
